@@ -8,5 +8,9 @@
 <body>
     <h1>Hello world</h1>
     <p>Anjay Gurinjay</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
 </body>
 </html>
